@@ -25,3 +25,7 @@ Learn Gulp by building an awesome development environment
 - import 방식이 안되므로 `const sass = require("gulp-sass")(require("node-sass"));`
 
 - 버전에 따라 `browsers: ["last 2 versions"]`를 autop({...}) 또는 package.json에 넣어야 한다.
+
+## JS Task(`gulp-bro, babelify uglifyify`)
+
+## deploy(`gulp-gh-pages`)
