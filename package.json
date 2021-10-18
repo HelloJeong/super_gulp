@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/HelloJeong/super_gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
-    "@babel/register": "^7.15.3"
+    "@babel/register": "^7.15.3",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0"
   }
 }
